@@ -1,0 +1,60 @@
+2D-Map
+Resolution: 0
+LineMinPos: -500 -500
+LineMaxPos: 10939 10080
+NumLines: 37
+LinesAreSorted: true
+MapInfo: DockType "Name=Dock" "Label=Dock" "NameRequired=1" "Color0=0xffff00" "Color1=0x000000" "Color2=0x000000" "Heading=Required"
+MapInfo: GoalType "Name=Goal" "Label=Goal" "NameRequired=1" "Color0=0x008080" "Color1=0x00ffff" "Color2=0x008080"
+MetaInfo: Rotation "Value=0"
+MetaInfo: Feature "Name=changeprocessing"
+RouteInfo: EveryBefore "_everyBefore"
+RouteInfo: EveryAfter "_everyAfter"
+SchedInfo: Current "_Friday"
+SchedInfo: Current "_Monday"
+SchedInfo: Current "_Saturday"
+SchedInfo: Current "_Sunday"
+SchedInfo: Current "_Thursday"
+SchedInfo: Current "_Tuesday"
+SchedInfo: Current "_Wednesday"
+Cairn: RobotHome 0 0 0.000000 "" ICON ""
+Cairn: ForbiddenArea 0 0 0.000000 "" ICON "" 5364 6752 5364 6752
+LINES
+-500 -500 10260 -500
+-500 10080 -500 -500
+-500 10080 10260 10080
+-496 3920 1229 7075
+1838 -499 10269 1934
+2099 6826 2099 6826
+2806 4070 2806 4070
+2819 4529 3055 2307
+2918 4033 2918 4033
+3042 6268 5054 10080
+3043 6267 1205 7075
+3055 2319 5501 1673
+3067 6243 3067 6243
+3179 4827 3179 4827
+3191 1959 3191 1959
+3266 5386 3266 5386
+3564 5163 3564 5163
+3626 3697 3626 3697
+3638 6255 3638 6255
+3787 5299 3787 5299
+4073 4964 4073 4964
+5166 8056 5166 8056
+5476 2456 5476 2456
+5513 1673 7947 4107
+5613 8863 5613 8863
+5724 1549 5724 1549
+5958 6005 2794 4517
+5973 6963 5973 6963
+5973 7286 5947 5982
+6320 5163 6320 5163
+7612 7385 5973 7298
+7860 6094 7860 6094
+7922 4095 7612 7385
+8270 7410 8270 7410
+8332 4132 8332 4132
+10260 -500 10260 10080
+10939 1847 10939 1847
+DATA
